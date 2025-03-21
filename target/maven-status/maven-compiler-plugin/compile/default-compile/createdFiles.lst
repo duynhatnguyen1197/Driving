@@ -1,5 +1,0 @@
-com\duynguyen\driving\model\User.class
-com\duynguyen\driving\service\UserService.class
-com\duynguyen\driving\controller\DrivingController.class
-com\duynguyen\driving\repository\UserRepository.class
-com\duynguyen\driving\DrivingApplication.class
